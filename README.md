@@ -1,7 +1,7 @@
 ## Inspiration
-Many of us would have heard about the importance of recycling. I wanted to reinforce this message with a game that makes recycling fun, exciting, and even heroic!
-  
-I'd like players to **laugh, jump, and recycle their way to victory**, realizing that even small actions can make a big difference and learn a thing or two about the great benefits of recycling💚
+This mini game is an entry for the [Global Gamers Challenge](https://flutter.dev/global-gamers) - sponsored by Flutter and Global Citizen team. 
+
+Many of us would have heard about the importance of recycling. I wanted to reinforce this message with a game that makes recycling fun, exciting, and even heroic! I'd like players to **laugh, jump, and recycle their way to victory**, realizing that even small actions can make a big difference and learn a thing or two about the great benefits of recycling💚
 
 ## What it does
 You'll be dashing through vibrant landscapes as a super-powered recycling bin, dodging pesky obstacles and gobbling up recyclables with glee. There are 3 levels that can be unlocked by completing previous level:
